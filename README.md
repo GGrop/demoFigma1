@@ -1,36 +1,10 @@
-![Artboard23](https://user-images.githubusercontent.com/88691772/235659700-829dd7ba-cdcf-4f8a-83c9-1539cce5474b.png)
+# Demo Figma 1
 
+A simple Figma demo.
 
-# crud-clubes-grpV2
+## 🎁 Figma
 
-Crud clubes v2 its a full-stack proyect which simulate a GRAN DT . You can create, read, update and delete teams
-
-## App 🖥
-
-https://user-images.githubusercontent.com/88691772/235763989-4c748467-fc2f-4980-a735-8c0b742f6efe.mp4
-
-## Install and Run ⚙
-
-```bash
-  git clone https://github.com/GGrop/crud-clubes-grpV2
-  crud-clubes-grpV2\back-end --> npm install
-  crud-clubes-grpV2\front-end --> npm install
-  crud-clubes-grpV2\back-end --> node src/index.js
-  crud-clubes-grpV2\front-end --> npm run start
-```
-
-## Tech Stack 🛠
-
-```bash
-  Node.js
-  express
-  Vanilla javascript
-  jest
-  Multer
-  UUID
-  CORS
-```
-
+https://www.figma.com/file/PaFbcQ3T7DZhFe07wE3nVz/Demo-figma-1?type=design&node-id=0%3A1&mode=dev
 
 ## 🤲🏻 Feedback
 
